@@ -12,7 +12,7 @@
 🎓 Final-year Artificial Intelligence student  
 🔍 Exploring AI, automation, and system design  
 🎨 Passionate about UI/UX, digital aesthetics, and building tools that *look* as good as they work  
-🏥 Interned at KFALH – worked on AI proposals, Power BI dashboards, ERP testing, and SQL data workflows  
+🏥 Interned at KFAFH – worked on AI proposals, Power BI dashboards, ERP testing, and SQL data workflows  
 💻 Currently building: an employee activity tracker using YOLOv8 + DeepSORT  
 
 ---
