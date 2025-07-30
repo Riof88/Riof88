@@ -1,16 +1,21 @@
-## Hi there 👋
+<h2 align="center">Hey, I'm Riof 👋</h2>
+<p align="center">
+  👩🏻‍💻 AI Enthusiast • Design Lover • Data Explorer  
+</p>
+<p align="center">
+  Blending creativity with code to build smart, beautiful things ✨
+</p>
 
-<!--
-**Riof88/Riof88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 About Me  
+🎓 Final-year Artificial Intelligence student  
+🔍 Exploring AI, automation, and system design  
+🎨 Passionate about UI/UX, digital aesthetics, and building tools that *look* as good as they work  
+🏥 Interned at KFALH – worked on AI proposals, Power BI dashboards, ERP testing, and SQL data workflows  
+💻 Currently building: an employee activity tracker using YOLOv8 + DeepSORT  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect With Me  
+📫 [LinkedIn](https://www.linkedin.com/in/riof-alzahrani-b5b65629a/)
